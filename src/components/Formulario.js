@@ -38,7 +38,7 @@ function Formulario({consultarAPILetra}) {
                       type="text"
                       className="form-control"
                       name="artista"
-                      placeHolder="Ej. Gorillaz"
+                      placeholder="Ej. Gorillaz"
                       onChange={actualizarState}
                       required
                     />
