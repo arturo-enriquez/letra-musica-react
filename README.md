@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04efcdcd-57e2-43fe-b4a4-9c9b6b81b61e/deploy-status)](https://app.netlify.com/sites/letra-musica/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
