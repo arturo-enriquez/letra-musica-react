@@ -38,7 +38,7 @@ function Formulario({consultarAPILetra}) {
                       type="text"
                       className="form-control"
                       name="artista"
-                      placeholder="Nombre Artista"
+                      placeHolder="Ej. Gorillaz"
                       onChange={actualizarState}
                       required
                     />
@@ -51,7 +51,7 @@ function Formulario({consultarAPILetra}) {
                       type="text"
                       className="form-control"
                       name="cancion"
-                      placeholder="Nombre Canción"
+                      placeholder="Ej. Clint Eastwood"
                       onChange={actualizarState}
                       required
                     />
